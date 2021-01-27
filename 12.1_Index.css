@@ -1,0 +1,45 @@
+
+.root {
+    --colorletra: #1687a7;
+    --colorfondo1: white;  
+    --colorletra2: #351f39;
+}
+
+.titulo1 {
+    font-size: 200px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    color: var(--colorletra);
+    text-align: center;
+}
+
+.logo img {
+    width: 64px;
+    height: 64px;
+    text-align: left;
+    border: cover;
+}
+
+.menunavegacion {
+    background-color: turquoise;
+    height: 64px;
+    
+}
+
+.menunavegacion a {
+    color: var(--colorfondo1);
+    height: 64px;
+    vertical-align: center;
+}
+
+.fotogigante {
+    width: 50%;
+    height: 100%;
+}
+
+.rrss a {
+    background-color: turquoise;
+    border: transparent;
+    color: black;
+}
+
